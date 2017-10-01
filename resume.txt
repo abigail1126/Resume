@@ -1,2 +1,3 @@
 Name: Abigail Torno
 Organization: PSCC
+Motto: Time is Gold
